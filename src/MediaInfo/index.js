@@ -33,8 +33,8 @@ class MediaInfo {
    * @returns {JSON}
    * @memberof MediaInfo
    */
-  async getInstance(url) {
-    return await this.getMediaInfoInstance(url)
+  async getInstance(file) {
+    return await this._getMediaInfo(file)
   }
 }
 
