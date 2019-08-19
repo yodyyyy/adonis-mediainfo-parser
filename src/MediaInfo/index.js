@@ -29,7 +29,7 @@ class MediaInfo {
    *
    * @method getInstance
    *
-   * @param {*} url
+   * @param {*} file
    * @returns {JSON}
    * @memberof MediaInfo
    */
