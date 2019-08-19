@@ -18,5 +18,8 @@
     "type": "git",
     "url": "git+https://github.com/axlyody/adonis-mediainfo.git"
   },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/"
+  },
   "licenses": "MIT"
 }
