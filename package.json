@@ -1,6 +1,6 @@
 {
   "name": "adonis-mediainfo-parser",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Adonis MediaInfo Parser",
   "main": "index.js",
   "dependencies": {
